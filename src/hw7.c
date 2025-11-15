@@ -1,3 +1,5 @@
+//Andrew Lin 115614248
+
 #include "hw7.h"
 #include <ctype.h>
 #include <stdio.h>
